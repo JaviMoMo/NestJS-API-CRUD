@@ -16,8 +16,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/JaviMoMo/NestJS-API-CRUD.git
+   cd NestJS-API-CRUD
    ```
 
 2. **Instalar dependencias**
@@ -26,12 +26,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 
    ```bash
    npm install
-   ```
-
-   O usando yarn:
-
-   ```bash
-   yarn
    ```
 
 ## Ejecutando la aplicación
