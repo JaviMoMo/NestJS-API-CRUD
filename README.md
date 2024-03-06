@@ -49,3 +49,7 @@ Para desplegar con Docker:
    docker run -p 3000:3000 mi-aplicacion-nestjs
    ```
 
+## Base de datos
+
+He utilizado MongoDB Atlas, para así tener una base de datos desplegada en la web y poder acceder desde cualquier dispositivo. 
+
